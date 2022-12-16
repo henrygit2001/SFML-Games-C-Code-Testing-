@@ -1,3 +1,3 @@
 # SFML-Games-C-Code-Testing
 
-My attempt to make games in C++ Using SFML Library.
+A mini game to bounce a sprite ball to select the correct answer to a given mathematical equation using SFML C++ library.
